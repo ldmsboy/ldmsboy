@@ -3,6 +3,4 @@
 </h1>
 
 ## <p align="center">Ingeniero en Ciberseguridad</p>
-Hey, I'm <b>ldmsboy</b> - !
-
-```javascript
+Helouuu, soy <b>ldmsboy</b> - el mejor en lo que hago!
