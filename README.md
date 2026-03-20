@@ -4,3 +4,17 @@
 
 ## <p align="center">Ingeniero en Ciberseguridad</p>
 Helouuu, soy <b>ldmsboy</b> - el mejor en lo que hago!
+
+```C++
+//Acerca de mi
+
+struct ldmsboy {
+    string cargo      = "Cybersecurity Engineer & CEO @ CyberIA Solutions";
+    string educacion  = "Ing. de Sistemas y Ciberseguridad @ INTEC";
+    vector<string> stack = {"Python", "JavaScript", "SQL", "C++", "Shell"};
+    struct Intereses {
+        string principal = "Cybersecurity";
+        vector<string> tech = {"Ethical Hacking", "AI", "IoT", "SaaS"};
+    };
+    vector<string> hobbies = {"Basketball", "Gaming_YT", "Fitness", "ROG_G14_Optimization"};
+};
