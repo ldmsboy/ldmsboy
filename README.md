@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="" alt="Dragkob" />
+  <img src="ldmsboy.svg" alt="ldmsboy" />
 </h1>
 
 ## <p align="center">CyberSecurity Consultant</p>
