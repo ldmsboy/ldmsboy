@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 100" width="100%" height="100%" style="max-width: 100%; height: auto;" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml" style="position: relative; width: 100%; height: 100%; overflow: hidden;">
+		<div xmlns="http://www.w3.org/1999/xhtml" style="position: relative; width: 100%; height: 100%; overflow: hidden; display: flex; align-items: center; justify-content: center;">
 			<style>
 				@keyframes gradientText {
 				  0% { background-position: 0% 50%; }
@@ -55,6 +55,16 @@
 				  -webkit-text-fill-color: transparent;
 				  -webkit-animation: gradientText 3s ease infinite;
 				  animation: gradientText 3s ease infinite;
+				}
+				@media (max-width: 768px) {
+				  h1 {
+				    font-size: 3.5em;
+				  }
+				}
+				@media (max-width: 480px) {
+				  h1 {
+				    font-size: 3em;
+				  }
 				}
 			</style>
 			
