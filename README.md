@@ -3,7 +3,7 @@
 </h1>
 
 ## <p align="center">Ingeniero en Ciberseguridad</p>
-Helouuu, soy <b>ldmsboy</b> - el mejor en lo que hago!
+<b>ldmsboy</b> - easy baby!
 
 ```C++
 //Acerca de mi
