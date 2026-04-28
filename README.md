@@ -10,7 +10,7 @@
 
 struct ldmsboy {
     string cargo = "Cybersecurity Engineer & CEO @ CyberIA Solutions";
-    string educacion = "Ing. de Sistemas y Ciberseguridad @ INTEC";
+    string educacion = "Ing. en Ciberseguridad @ INTEC";
     vector<string> stack = {"Python", "JavaScript", "SQL", "C++", "Shell"};
     struct Intereses {
         string principal = "Cybersecurity";
